@@ -1,0 +1,16 @@
+.Navbar_Main{
+    width: 100%;
+    background: #000;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Navbar_Main>h1{
+    font-family: 'Montserrat', sans-serif;
+    color: pink;
+}
+.Navbar_Main>p{
+    font-family: 'Baloo Tammudu 2', cursive;
+}
